@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Twitter } from 'lucide-react';
+import { Github, Mail } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Footer() {
@@ -10,18 +10,6 @@ export default function Footer() {
       href: 'https://github.com/LylesZhang',
       icon: Github,
       ariaLabel: 'Visit GitHub profile'
-    },
-    {
-      name: 'LinkedIn',
-      href: 'https://linkedin.com/in/lyle-zhang',
-      icon: Linkedin,
-      ariaLabel: 'Visit LinkedIn profile'
-    },
-    {
-      name: 'Twitter',
-      href: 'https://twitter.com/lylezhang',
-      icon: Twitter,
-      ariaLabel: 'Visit Twitter profile'
     },
     {
       name: 'Email',
