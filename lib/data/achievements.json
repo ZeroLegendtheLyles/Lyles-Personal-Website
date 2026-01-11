@@ -1,0 +1,48 @@
+{
+  "publications": [
+    {
+      "id": "pub-001",
+      "type": "journal",
+      "title": "Sample Research Publication",
+      "authors": ["Lyle Zhang", "Co-Author Name"],
+      "journal": "Journal Name",
+      "year": 2024,
+      "doi": "10.xxxx/xxxxx",
+      "abstract": "This is a sample publication entry. Replace with your actual research publications.",
+      "tags": ["research", "computer-science"],
+      "featured": true
+    }
+  ],
+  "awards": [
+    {
+      "id": "award-001",
+      "title": "Sample Academic Award",
+      "organization": "Organization Name",
+      "year": 2024,
+      "description": "Description of the award and achievement.",
+      "featured": true
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Computer Science",
+      "institution": "Haverford College",
+      "location": "Haverford, PA",
+      "startDate": "2020-09",
+      "endDate": null,
+      "gpa": "4.0"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-001",
+      "title": "Personal Website",
+      "description": "A modern personal website built with Next.js showcasing research and achievements.",
+      "year": 2026,
+      "role": "Developer",
+      "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+      "github": "https://github.com/LylesZhang/website",
+      "featured": true
+    }
+  ]
+}
